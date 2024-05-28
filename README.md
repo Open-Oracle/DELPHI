@@ -1,11 +1,10 @@
-# 🚀 DELPHI: The Ultimate Oracle of Delphi Token and Request Management System
+# 🚀 Oracle of Delphi: Automate Everything.
 
-Welcome to the **DELPHI** repository, your all-in-one solution for token management and comprehensive request handling. DELPHI combines the power of Random Number Generation (RNG), messaging, keeper functions, and oracle services into a seamless and efficient smart contract ecosystem. This repository provides everything you need to get started with our innovative platform, from simple deployment guides to detailed usage instructions.
+Welcome to the **DELPHI** repository, your all-in-one solution for contract automation and oracle solutions. DELPHI combines the power of Random Number Generation (RNG), messaging, keeper functions, and oracle return services into a seamless and efficient smart contract ecosystem.
 
 ## 🌟 What is DELPHI?
 
-DELPHI is a multi-faceted smart contract system designed to manage token transactions and various types of requests. It leverages the robust capabilities of Ethereum to provide:
-- **ERC20 Token Management**: Secure and scalable token operations.
+DELPHI is a multi-faceted smart contract system designed to manage various types of requests. It leverages the robust capabilities of Ethereum to provide:
 - **RNG Requests**: Random number generation for fair and transparent outcomes.
 - **Message Requests**: Secure message verification and handling.
 - **Keeper Requests**: Automated contract calls for maintenance and operations.
