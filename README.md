@@ -1,10 +1,10 @@
-# DELPHI - The Premier Oracle Service Platform
+# Oracle of Delphi - The Premier Automation Service Platform
 
-Welcome to DELPHI, a cutting-edge oracle service platform designed to streamline on-chain task automation while incentivizing user participation. DELPHI enables developers to build powerful, self-sustaining systems that reward users with scarce native tokens and additional bounties. Discover how DELPHI can transform your blockchain applications!
+Welcome to DELPHI, a state-of-the-art oracle service platform designed to streamline on-chain task automation while incentivizing user participation. DELPHI empowers developers to build powerful, self-sustaining systems that reward users with scarce native tokens and additional bounties. Discover how DELPHI can revolutionize your blockchain applications!
 
 ## Overview
 
-DELPHI is a comprehensive contract suite that integrates multiple types of requests: RNG (Random Number Generation), Message, Keeper, and Oracle. By leveraging DELPHI, you can create automated systems that incentivize request fulfillment, either with native tokens or ETH, driving user engagement and participation.
+DELPHI is a comprehensive contract suite that integrates multiple types of requests: RNG (Random Number Generation), Message, Keeper, and Oracle. By leveraging DELPHI, you can create automated systems that incentivize request fulfillment with native tokens or ETH, driving user engagement and participation.
 
 ## Key Features
 
@@ -12,6 +12,14 @@ DELPHI is a comprehensive contract suite that integrates multiple types of reque
 - **Incentivized Ecosystem**: Rewards users for fulfilling requests with native tokens and bounties.
 - **Self-Sustaining Automation**: Build systems that fund themselves through user interactions.
 - **Scalable and Extendable**: Deploy as-is or enhance with additional layers for advanced functionality.
+
+## Bounty and Reward System
+
+DELPHI's reward system incentivizes participation from both developers and users. Here's how it works:
+
+- **Bounties**: Users can stake native tokens or ETH as bounties for fulfilling requests. This encourages prompt and accurate fulfillment of tasks.
+- **Rewards**: When a request is fulfilled, the fulfiller receives a reward in native tokens. Additionally, a portion of the bounty is distributed as an incentive.
+- **Incentives for Use**: The more users interact with DELPHI, the more they can earn. This creates a thriving ecosystem where users are motivated to engage regularly.
 
 ## Getting Started
 
@@ -102,6 +110,13 @@ Build and deploy your contract that integrates with DELPHI. Use DELPHI's versati
 ## Example Use Case
 
 Imagine creating a decentralized lottery system where users can buy tickets, and the winning ticket is selected using DELPHI's RNG service. Users are incentivized to participate as the reward increases with more ticket sales, and the system remains transparent and fair.
+
+## Incentives for Developers and Users
+
+DELPHI's ecosystem thrives on active participation from both developers and users:
+
+- **For Developers**: Build advanced, automated applications that can sustain themselves through user interactions. Integrate DELPHI’s oracle services to enhance functionality and ensure reliability.
+- **For Users**: Engage with the platform by fulfilling requests and earning rewards. The more you participate, the more you earn, creating a cycle of continuous engagement and benefit.
 
 ## Conclusion
 
