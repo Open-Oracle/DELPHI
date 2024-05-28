@@ -1,5 +1,4 @@
-# Oracle of Delphi - The Premier Automation Service Platform
-
+# Oracle of Delphi - Automate Everything
 Welcome to DELPHI, a state-of-the-art oracle service platform designed to streamline on-chain task automation while incentivizing user participation. DELPHI empowers developers to build powerful, self-sustaining systems that reward users with scarce native tokens and additional bounties. Discover how DELPHI can revolutionize your blockchain applications!
 
 ## Overview
